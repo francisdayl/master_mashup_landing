@@ -1,4 +1,5 @@
 
 body {
-    background: black url("images/bg_landing.jpg") no-repeat  ;
+    background: black url("images/bg_landing.jpg") no-repeat ;
+    background-size: cover;
 }
